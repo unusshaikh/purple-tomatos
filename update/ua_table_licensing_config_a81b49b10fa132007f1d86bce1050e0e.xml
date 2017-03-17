@@ -5,24 +5,24 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_100192_pt_purple</name>
+        <name>x_100192_pt_tomato</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-03-17 10:08:12</sys_created_on>
+        <sys_created_on>2017-03-17 10:15:13</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>9d84c9750f21320093c7cfdce1050eaa</sys_id>
+        <sys_id>a81b49b10fa132007f1d86bce1050e0e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_100192_pt_purple</sys_name>
+        <sys_name>x_100192_pt_tomato</sys_name>
         <sys_package display_value="pt" source="x_100192_pt">b357f4710f6132007f1d86bce1050e25</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="pt">b357f4710f6132007f1d86bce1050e25</sys_scope>
-        <sys_update_name>ua_table_licensing_config_9d84c9750f21320093c7cfdce1050eaa</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_a81b49b10fa132007f1d86bce1050e0e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-03-17 10:08:12</sys_updated_on>
+        <sys_updated_on>2017-03-17 10:15:13</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

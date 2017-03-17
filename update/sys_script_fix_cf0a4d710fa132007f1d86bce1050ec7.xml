@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description/>
+        <flush_cache>false</flush_cache>
+        <name>Fix scripts</name>
+        <run_once>true</run_once>
+        <script/>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>hanna.cinkan</sys_created_by>
+        <sys_created_on>2017-03-17 11:29:57</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>cf0a4d710fa132007f1d86bce1050ec7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fix scripts</sys_name>
+        <sys_package display_value="pt" source="x_100192_pt">b357f4710f6132007f1d86bce1050e25</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="pt">b357f4710f6132007f1d86bce1050e25</sys_scope>
+        <sys_update_name>sys_script_fix_cf0a4d710fa132007f1d86bce1050ec7</sys_update_name>
+        <sys_updated_by>hanna.cinkan</sys_updated_by>
+        <sys_updated_on>2017-03-17 11:29:57</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
